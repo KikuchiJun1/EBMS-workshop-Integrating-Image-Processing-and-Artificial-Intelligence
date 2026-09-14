@@ -1,4 +1,4 @@
-# MicroTAS 2026 Workshop 10: Artificial Intelligence for Single-Cell Analysis: Detection, Segmentation, Classification, and Tracking
+# Engineered Biological Models & Systems: Artificial Intelligence for Single-Cell Analysis: Detection, Segmentation, Classification, and Tracking
 
 This repository contains two hands-on tutorials for biomedical image analysis using classical and deep learning approaches:
 
@@ -51,8 +51,8 @@ Both tutorials are designed for beginners and can run in Google Colab with free 
 ### Local Installation
 
 ```bash
-git clone https://github.com/KikuchiJun1/MicroTAS-2026-Workshop-10.git
-cd MicroTAS-2026-Workshop-10
+git clone https://github.com/KikuchiJun1/EBMS-workshop-Integrating-Image-Processing-and-Artificial-Intelligence.git
+cd EBMS-workshop-Integrating-Image-Processing-and-Artificial-Intelligence
 pip install torch torchvision pillow numpy matplotlib scikit-image
 ```
 
@@ -204,8 +204,8 @@ Binary classification of sperm morphology (Normal vs. Abnormal) using:
 
 ## 🎓 Workshop Information
 
-**Workshop**: MicroTAS 2026 - Computer Vision for Microscopy  
-**Duration**: 90 minutes  
+**Workshop**: EBMS Workshop
+**Duration**: 120 minutes  
 **Level**: Beginner to Intermediate  
 **Prerequisites**: Basic Python knowledge
 
@@ -220,7 +220,7 @@ By the end of this workshop, you will:
 
 ## Contact & Support
 
-- **GitHub Issues**: [Report bugs or ask questions](https://github.com/KikuchiJun1/MicroTAS-2026-Workshop-10-Segmentation/issues)
+- **GitHub Issues**: [Report bugs or ask questions](https://github.com/KikuchiJun1/EBMS-workshop-Integrating-Image-Processing-and-Artificial-Intelligence/issues)
 
 - **Workshop Organizers**: 
 
@@ -230,7 +230,7 @@ Jun.Kikuchi@Monash.edu
 Reza.Nosrati@Monash.edu
 [![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/rezanosrati)
 
-- **Conference Organizers**: Contact via MicroTAS 2026 conference
+- **Workshop Organisers**: Contact via the EBMS Workshop
 
 ---
 
