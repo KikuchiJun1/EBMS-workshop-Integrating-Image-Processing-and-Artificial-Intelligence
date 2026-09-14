@@ -222,7 +222,7 @@ By the end of this workshop, you will:
 
 - **GitHub Issues**: [Report bugs or ask questions](https://github.com/KikuchiJun1/EBMS-workshop-Integrating-Image-Processing-and-Artificial-Intelligence/issues)
 
-- **Workshop Organizers**: 
+- **Workshop Organisers**: 
 
 Jun.Kikuchi@Monash.edu
 [![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/junkikuchi)
@@ -230,7 +230,13 @@ Jun.Kikuchi@Monash.edu
 Sahar.Shahali@monash.edu
 [![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/saharshahali)
 
-- **Workshop Organisers**: Contact via the EBMS Workshop
+- **Event Organisers**: 
+Jessica.Frith@monash.edu
+[![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/jessfrith)
+
+Stephanie.Doyle@monash.edu
+[![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://scholar.google.com/citations?user=eRAw-MoAAAAJ&hl=en)
+
 
 ---
 
