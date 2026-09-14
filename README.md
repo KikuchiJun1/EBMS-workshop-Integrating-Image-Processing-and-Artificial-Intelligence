@@ -225,17 +225,22 @@ By the end of this workshop, you will:
 - **Workshop Organisers**: 
 
 Jun.Kikuchi@Monash.edu
-[![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/junkikuchi)
+
+ [![Website](https://img.shields.io/badge/Website-Visit-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/junkikuchi)
 
 Sahar.Shahali@monash.edu
-[![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/saharshahali)
+
+ [![Website](https://img.shields.io/badge/Website-Visit-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/saharshahali)
 
 - **Event Organisers**: 
+
 Jessica.Frith@monash.edu
-[![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/jessfrith)
+
+ [![Website](https://img.shields.io/badge/Website-Visit-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/jessfrith)
 
 Stephanie.Doyle@monash.edu
-[![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://scholar.google.com/citations?user=eRAw-MoAAAAJ&hl=en)
+
+ [![Website](https://img.shields.io/badge/Website-Visit-0969DA?style=for-the-badge)](https://scholar.google.com/citations?user=eRAw-MoAAAAJ&hl=en)
 
 
 ---
