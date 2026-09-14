@@ -42,11 +42,11 @@ Both tutorials are designed for beginners and can run in Google Colab with free 
 
 **Tutorial #1: Segmentation Tutorial:**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tQg0IKpaWrQPDpVUNS3tEgvpwUL2eOeV?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xgfr8NLCkcNJJBcs5eO119mmG9KnMPu8?usp=sharing)
 
 **Tutorial #2: Classification Tutorial:**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10BLOMuVKmE5SYpBagn06KTWKPzU_p2YY?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_Z_CqJ_2x7F0sHlUSG766rw4Y89gJVPj?usp=sharing)
 
 ### Local Installation
 
@@ -227,8 +227,8 @@ By the end of this workshop, you will:
 Jun.Kikuchi@Monash.edu
 [![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/junkikuchi)
 
-Reza.Nosrati@Monash.edu
-[![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/rezanosrati)
+Sahar.Shahali@monash.edu
+[![Open webpage](https://img.shields.io/badge/Open-Webpage-0969DA?style=for-the-badge)](https://www.monash.edu/engineering/saharshahali)
 
 - **Workshop Organisers**: Contact via the EBMS Workshop
 
